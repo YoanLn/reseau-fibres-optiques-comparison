@@ -1,0 +1,33 @@
+# Fichiers objets et binaires
+*.o
+*.out
+*.exe
+ChaineMain
+ReconstitueReseau
+main
+main6.1
+mainGraphe
+
+# Fichiers de résultats SVG et HTML générés
+*.html
+*.svg
+
+# Fichiers de logs et résultats
+graph.txt
+graph_hachage.txt
+temps_de_calcul.txt
+
+# Backups et fichiers temporaires
+*~
+*.bak
+*.swp
+*.swo
+
+# Éditeurs et IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Fichiers système
+.DS_Store
+Thumbs.db 
